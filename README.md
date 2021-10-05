@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Janardhan</h1>
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Philip!
+</h3>
 <h3 align="center">Web development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-a-n-a&label=Profile%20views&color=0e75b6&style=flat" alt="j-a-n-a" /> </p>

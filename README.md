@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm Philip!
+    I'm Janardhan!
 </h3>
 <h3 align="center">Web development Enthusiast</h3>
 

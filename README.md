@@ -10,11 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-a-n-a&label=Profile%20views&color=0e75b6&style=flat" alt="j-a-n-a" /> </p>
 
-- 🌱 I’m currently learning **Frontend Frameworks,databases and more**
+- 🌱 I’m currently learning **Server side development using Node js ,databases and more**
 
 - 📫 How to reach me **janardhangowda2k@gmail.com**
-
-- ⚡ Fun fact **“I know it's crazy, but I love to eat…”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
